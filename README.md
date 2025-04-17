@@ -23,11 +23,9 @@ CVPR 2020-2024 https://github.com/extreme-assistant/CVPR2024-Paper-Code-Interpre
 官网搜着不太好用，基本都是在文章中的内容，就和这个图一样，在2024里搜索出来的标题都不带gesture recognition，确实看别人总结的也不全，有的文章没有，也不知道有哪些文章，就只能常浏览，多找不同人总结的
 ![image](https://github.com/user-attachments/assets/ce8f168e-06da-4a31-a70b-e092ce1f8f6d)
 
-
- *An Efficient PointLSTM for Point Clouds Based Gesture Recognition**
-- 论文：http://openaccess.thecvf.com/content_CVPR_2020/html/
-- Min_An_Efficient_PointLSTM_for_Point_Clouds_Based_Gesture_Recognition_CVPR_2020_paper.html
-- 代码：https://github.com/Blueprintf/pointlstm-gesture-recognition-pytorch
+An Efficient PointLSTM for Point Clouds Based Gesture Recognition
+   paper：http://openaccess.thecvf.com/content_CVPR_2020/html/
+- code：https://github.com/Blueprintf/pointlstm-gesture-recognition-pytorch
 - 
 Improved Handling of Motion Blur in Online Object Detection(改进在线对象检测中运动模糊的处理)<br>
 [paper](https://arxiv.org/abs/2011.14448)<br><br>
@@ -68,7 +66,7 @@ Diverse 3D Hand Gesture Prediction from Body Dynamics by Bilateral Hand Disentan
 Hierarchical Temporal Transformer for 3D Hand Pose Estimation and Action Recognition from Egocentric RGB Videos<br>
 [paper](https://arxiv.org/abs/2209.09484) | [code](https://github.com/fylwen/htt)<br><br>
 
-[20]Learning Human-to-Robot Handovers from Point Clouds<br>
+Learning Human-to-Robot Handovers from Point Clouds<br>
 [paper](https://arxiv.org/abs/2303.17592)<br><br>
 
 Im2Hands: Learning Attentive Implicit Representation of Interacting Two-Hand Shapes<br>
@@ -108,7 +106,7 @@ Skeleton Based Sign Language Recognition Using Whole-body Keypoints(基于全身
 Camera-Space Hand Mesh Recovery via Semantic Aggregation and Adaptive  2D-1D Registration(基于语义聚合和自适应2D-1D配准的相机空间手部网格恢复)<br>
 [paper](https://arxiv.org/pdf/2103.02845.pdf) | [code](https://github.com/SeanChenxy/HandMesh)<br><br>
 
- Learning Hierarchical Cross-Modal Association for Co-Speech Gesture Generation(用于协同语音手势生成的学习分层跨模式关联)<br>
+Learning Hierarchical Cross-Modal Association for Co-Speech Gesture Generation(用于协同语音手势生成的学习分层跨模式关联)<br>
 [paper](https://arxiv.org/abs/2203.13161) | [project](https://alvinliu0.github.io/projects/HA2G)<br><br>
 
 Taming Diffusion Models for Audio-Driven Co-Speech Gesture Generation<br>
@@ -119,9 +117,10 @@ Gesture Recognition: Focus on the Hands
 
 
 ICCV 2019:[ICCV2019_links.xlsx](https://github.com/user-attachments/files/19790291/ICCV2019_links.xlsx)  
+
 EPIC-Fusion: Audio-Visual Temporal Binding for Egocentric Action Recognition
 https://github.com/ekazakos/temporal-binding-network![image](https://github.com/user-attachments/assets/1586d161-de81-49c3-8079-6952f126ff7c)
-
+...
 Bayesian Graph Convolution LSTM for Skeleton Based Action Recognition
 
 Embodied Amodal Recognition: Learning to Move to Perceive Objects
@@ -141,6 +140,7 @@ Making the Invisible Visible: Action Recognition Through Walls and Occlusions
 Memory-Based Neighbourhood Embedding for Visual Recognition
 
 SCSampler: Sampling Salient Clips From Video for Efficient Action Recognition
+...
 
 ICCV 2021:https://iccv2021.thecvf.com/papers-visualizations?filter=primary_subject_area&search=Action+and+behavior+recognition
 ![image](https://github.com/user-attachments/assets/d17cfb16-1a30-45f3-996c-707f9fbc8f93)
@@ -181,7 +181,7 @@ Optimizing Factorized Encoder Models: Time and Memory Reduction for Scalable and
 Leveraging temporal contextualization for video action recognition
 ...
 
-science advances 
+science advances: https://www.science.org/journal/sciadv
 搜索 gesture recognition 基本是材料
 ![image](https://github.com/user-attachments/assets/488bd507-2742-4f65-9f82-a1e734b0c009)
 
@@ -189,7 +189,7 @@ nature communation/machine intelligence
 基本无视觉，有semg 大部分都是从材料做，基本是数据集才有代码,下面是检索的图片，里面有的文章，都没找到代码
 ![image](https://github.com/user-attachments/assets/c19e0e47-7f5b-440e-9969-b6af357b0371)
 
-scientific reports
+scientific reports:https://www.nature.com/srep/
 
 Dynamic gesture recognition based on 2D convolutional neural network and feature fusion[s41598-022-08133-z.pdf](https://github.com/user-attachments/files/19791517/s41598-022-08133-z.pdf)
 
@@ -209,7 +209,7 @@ A database of high-density surface electromyogram signals comprising 65 isometri
 Inkjet-printed fully customizable and low-cost electrodes matrix for gesture recognition[s41598-021-94526-5.pdf](https://github.com/user-attachments/files/19791537/s41598-021-94526-5.pdf)
 
 
-IEE TPMI
+IEE TPMI:https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34
 搜索gesture recognition 2020-2024 总共就十几篇，相关一点3篇，没代码，其中有两篇再CVPR上发布过
 ![image](https://github.com/user-attachments/assets/7598b025-1819-48bd-8780-5a8a43d897d1)
 https://webvpn.jiangnan.edu.cn/https/77726476706e69737468656265737421f9f244993f20645f6c0dc7a59d50267b1ab4a9/stamp/stamp.jsp?tp=&arnumber=9681230
@@ -220,7 +220,7 @@ https://webvpn.jiangnan.edu.cn/https/77726476706e69737468656265737421f9f244993f2
 
 ![image](https://github.com/user-attachments/assets/cd242581-c548-4d08-95b3-314ff4868fd1)
 
-https://axsight.top/survey：
+arXiv Insight:https://axsight.top/survey：
 偏视觉：[2003.01450v3.pdf](https://github.com/user-attachments/files/19793231/2003.01450v3.pdf)
 [2412.18321v1.pdf](https://github.com/user-attachments/files/19793230/2412.18321v1.pdf)
 [2408.08035v1.pdf](https://github.com/user-attachments/files/19793229/2408.08035v1.pdf)
@@ -233,9 +233,9 @@ https://axsight.top/survey：
 [2312.02535v1.pdf](https://github.com/user-attachments/files/19793215/2312.02535v1.pdf)
 [2309.11610v1.pdf](https://github.com/user-attachments/files/19793214/2309.11610v1.pdf)
 
-dplp:这个比较杂乱：啥期刊的都有，还得筛选代码的，后面慢慢筛选
+dplp:https://dblp.uni-trier.de/search?q=gesture%20recognition%20by%20visiual
+这个比较杂乱：啥期刊的都有，还得筛选代码的，后面慢慢筛选:
 ![image](https://github.com/user-attachments/assets/2636354c-70ca-4999-9873-f69a5302863d)
-
 
  paper with code (google旗下的带代码的论文)https://paperswithcode.com/
 跑数据集![image](https://github.com/user-attachments/assets/ee5aa41b-b801-4b7d-a4af-da428b94bb0f)
