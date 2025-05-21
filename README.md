@@ -147,6 +147,26 @@ ICCV 2021:https://iccv2021.thecvf.com/papers-visualizations?filter=primary_subje
 
 ![image](https://github.com/user-attachments/assets/4acbf630-148e-424e-8549-1c034d8dc45d)
 
+EvHandPose: Event-based 3D Hand Pose Estimation with Sparse Supervision EvHandPose：基于事件的稀疏监督 3D 手势估计
+[paper]https://arxiv.org/abs/2303.02862
+[code] https://github.com/AlanJiang98/EvHandPose
+
+Learning a Contact Potential Field for Modeling the Hand-Object Interaction 学习接触势场以建模手与物体的相互作用
+[paper]https://arxiv.org/abs/2012.00924
+[code]https://github.com/lixiny/CPF
+
+HOISDF: Constraining 3D Hand-Object Pose Estimation with Global Signed Distance Fields HOISDF：使用全局有符号距离场约束 3D 手部-物体姿态估计
+[paper]https://arxiv.org/abs/2402.17062
+[code] https://github.com/amathislabIHOISDF
+
+HandDiff: 3D Hand Pose Estimation with Diffusion on Image-Point Cloud HandDiff：基于图像点云扩散的 3D 手势估计
+[paper] https://arxiv.org/abs/2404.03159
+[code] https://github.com/cwc1260/HandDiff
+
+MS-MANO: Enabling Hand Pose Tracking with Biomechanical Constraints MS-MANO：通过生物力学约束实现手势追踪
+[paper]https://arxiv.org/abs/2404.10227
+[code] https://github.com/panoanx/ms-mano-dynamics
+
 ICCV 2023:https://www.cvmart.net/community/detail/7422
 
 Markerless Camera-to-Robot Pose Estimation via Self-supervised Sim-to-Real Transfer
